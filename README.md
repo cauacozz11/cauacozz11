@@ -37,12 +37,11 @@ Tecnologias
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 ---
-Projetos
-Projeto	Descrição
-projeto_diario_de_obra	SaaS de diário de obra para construtoras: registros por texto, imagem e áudio, com relatórios em PDF.
-ApiClinica_csharp	API REST para gerenciamento de clínicas médicas, em C#.
-Dashbord_Interativa_Python	Dashboard de análise de dados em Python.
-API_MongoDB	API REST com persistência em MongoDB.
+Projetos principais:<br />
+- projeto_diario_de_obra	SaaS de diário de obra para construtoras: registros por texto, imagem e áudio, com relatórios em PDF. <br />
+- ApiClinica_csharp	API REST para gerenciamento de clínicas médicas, em C#. <br />
+- Dashbord_Interativa_Python	Dashboard de análise de dados em Python. <br />
+- API_MongoDB	API REST com persistência em MongoDB.
 ---
 Estatísticas
 <p align="center">
