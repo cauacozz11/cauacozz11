@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/caua-cozzarin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:cauacozzarin7@email.com">
+  <a href="mailto:cauacozz@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/Jaragu%C3%A1%20do%20Sul%2C%20SC-Brasil-009C3B?style=for-the-badge" alt="Localização"/>
