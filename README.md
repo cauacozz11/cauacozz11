@@ -1,6 +1,6 @@
-<h1 align="center">Olá, eu sou o Cauã Cozzarin 👋</h1>
+<h1 align="center">Cauã Cozzarin</h1>
 <p align="center">
-  <b>Desenvolvedor Backend Jr.</b> • Node.js & TypeScript • Automação, APIs REST e integrações
+  Desenvolvedor Jr. • Node.js & TypeScript • Automação, APIs REST e integrações
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/caua-cozzarin">
@@ -12,15 +12,14 @@
   <img src="https://img.shields.io/badge/Jaragu%C3%A1%20do%20Sul%2C%20SC-Brasil-009C3B?style=for-the-badge" alt="Localização"/>
 </p>
 ---
-🚀 Sobre mim
-Estudante de Engenharia de Software na Católica de Santa Catarina (conclusão prevista para 2028), atuando como Desenvolvedor Backend Júnior. Tenho foco em automação de processos, integração entre sistemas e desenvolvimento de APIs.
-🔭 Trabalhando com Node.js, TypeScript e automação web no dia a dia
-🏗️ Desenvolvendo uma SaaS de diário de obra digital para pequenas construtoras
-🌱 Aprofundando conhecimentos em arquitetura de backend, integrações e cloud (AWS)
-🧩 Perfil analítico, com foco em resolução de problemas e eficiência operacional
-📫 Como me encontrar: cauacozzarin7@email.com
+Sobre mim
+Estudante de Engenharia de Software na Católica de Santa Catarina. Atuo como Desenvolvedor Backend Júnior, com foco em automação de processos, integração entre sistemas e APIs.
+Trabalho com Node.js, TypeScript e automação web
+Desenvolvo uma SaaS de diário de obra digital para construtoras
+Estudando arquitetura de backend e cloud (AWS)
+Contato: cauacozzarin7@email.com
 ---
-🛠️ Tecnologias & Ferramentas
+Tecnologias
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -38,14 +37,14 @@ Estudante de Engenharia de Software na Católica de Santa Catarina (conclusão p
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 ---
-📂 Projetos em destaque
+Projetos
 Projeto	Descrição
-🏗️ projeto_diario_de_obra	SaaS de diário de obra digital para construtoras: registros por texto, imagem e áudio, com geração automática de relatórios em PDF.
-🩺 ApiClinica_csharp	API REST para gerenciamento de clínicas médicas, desenvolvida em C#.
-📊 Dashboard_Interativa_Python	Dashboard interativa para análise de dados desenvolvida em Python.
-🗄️ API_MongoDB	API REST com persistência em MongoDB.
+projeto_diario_de_obra	SaaS de diário de obra para construtoras: registros por texto, imagem e áudio, com relatórios em PDF.
+ApiClinica_csharp	API REST para gerenciamento de clínicas médicas, em C#.
+Dashbord_Interativa_Python	Dashboard de análise de dados em Python.
+API_MongoDB	API REST com persistência em MongoDB.
 ---
-📊 Estatísticas do GitHub
+Estatísticas
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauacozz11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauacozz11&layout=compact&theme=tokyonight&langs_count=8" alt="Linguagens mais usadas"/>
@@ -54,11 +53,7 @@ Projeto	Descrição
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cauacozz11&theme=tokyonight" alt="Sequência de commits"/>
 </p>
 ---
-🏆 Troféus
+Troféus
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cauacozz11&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Troféus do GitHub"/>
-</p>
----
-<p align="center">
-  <i>"Foco em resolução de problemas, eficiência operacional e evolução contínua."</i>
 </p>
