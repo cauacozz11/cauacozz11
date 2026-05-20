@@ -36,23 +36,9 @@ Tecnologias
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
----
+
 Projetos principais:<br />
 - projeto_diario_de_obra	SaaS de diário de obra para construtoras: registros por texto, imagem e áudio, com relatórios em PDF. <br />
 - ApiClinica_csharp	API REST para gerenciamento de clínicas médicas, em C#. <br />
 - Dashbord_Interativa_Python	Dashboard de análise de dados em Python. <br />
 - API_MongoDB	API REST com persistência em MongoDB.
----
-Estatísticas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauacozz11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauacozz11&layout=compact&theme=tokyonight&langs_count=8" alt="Linguagens mais usadas"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cauacozz11&theme=tokyonight" alt="Sequência de commits"/>
-</p>
----
-Troféus
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cauacozz11&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Troféus do GitHub"/>
-</p>
