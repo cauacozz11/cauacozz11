@@ -12,14 +12,14 @@
   <img src="https://img.shields.io/badge/Jaragu%C3%A1%20do%20Sul%2C%20SC-Brasil-009C3B?style=for-the-badge" alt="Localização"/>
 </p>
 <br />
-Sobre mim
+Sobre mim:<br />
 Estudante de Engenharia de Software na Católica de Santa Catarina. Atuo como Desenvolvedor Backend Júnior, com foco em automação de processos, integração entre sistemas e APIs.
 Trabalho com Node.js, TypeScript e automação web
 Desenvolvo uma SaaS de diário de obra digital para construtoras
 Estudando arquitetura de backend e cloud (AWS)
 Contato: cauacozzarin7@email.com
 <br />
-Tecnologias
+Tecnologias:
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
