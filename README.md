@@ -19,6 +19,7 @@ Desenvolvo uma SaaS de diário de obra digital para construtoras
 Estudando arquitetura de backend e cloud (AWS)
 Contato: cauacozzarin7@email.com
 <br />
+<br />
 Tecnologias:
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
